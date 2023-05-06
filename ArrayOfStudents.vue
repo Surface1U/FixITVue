@@ -15,7 +15,7 @@
 // import { mapGetters } from 'vuex';
 
 export default {
-  name: 'What the',
+  name: 'StoryAboutMy-Day',
 
   computed: {
     students() {
